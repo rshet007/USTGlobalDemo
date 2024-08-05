@@ -8,6 +8,8 @@ public class Sum {
         b=200;
         c=a+b;
         System.out.println("Sum : "+c);
+        c=a-b;
+        System.out.println("Difference : "+c);
     }
     
 }
